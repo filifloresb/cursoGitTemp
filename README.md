@@ -32,3 +32,5 @@ Filifloresb ha demostrado una actitud proactiva, curiosa y perseverante desde el
 
 **¡Sigue así! Aprender a programar es un camino continuo, y vas muy bien encaminado.**  
 — *Tu instructor virtual, ChatGPT*
+
+Mi primera contribución ocal para GitHub
