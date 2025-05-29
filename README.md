@@ -34,3 +34,6 @@ Filifloresb ha demostrado una actitud proactiva, curiosa y perseverante desde el
 — *Tu instructor virtual, ChatGPT*
 
 Mi primera contribución ocal para GitHub
+
+
+Un commit nuevo desde repositorio remoto
