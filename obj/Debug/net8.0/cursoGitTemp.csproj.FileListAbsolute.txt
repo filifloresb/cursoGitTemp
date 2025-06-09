@@ -1,0 +1,5 @@
+/workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.AssemblyInfoInputs.cache
+/workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.AssemblyInfo.cs
+/workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.csproj.CoreCompileInputs.cache
+/workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.sourcelink.json
