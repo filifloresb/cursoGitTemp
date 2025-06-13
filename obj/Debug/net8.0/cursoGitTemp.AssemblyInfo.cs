@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cursoGitTemp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee2f220268906675faf5a698a04388580128b54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46acaded3cc4ab66944c1371bbae22d927b4075")]
 [assembly: System.Reflection.AssemblyProductAttribute("cursoGitTemp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cursoGitTemp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

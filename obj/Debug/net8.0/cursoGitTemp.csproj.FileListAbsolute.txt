@@ -1,5 +1,15 @@
+/workspaces/cursoGitTemp/bin/Debug/net8.0/cursoGitTemp
+/workspaces/cursoGitTemp/bin/Debug/net8.0/cursoGitTemp.deps.json
+/workspaces/cursoGitTemp/bin/Debug/net8.0/cursoGitTemp.runtimeconfig.json
+/workspaces/cursoGitTemp/bin/Debug/net8.0/cursoGitTemp.dll
+/workspaces/cursoGitTemp/bin/Debug/net8.0/cursoGitTemp.pdb
 /workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.GeneratedMSBuildEditorConfig.editorconfig
 /workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.AssemblyInfoInputs.cache
 /workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.AssemblyInfo.cs
 /workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.csproj.CoreCompileInputs.cache
 /workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.sourcelink.json
+/workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.dll
+/workspaces/cursoGitTemp/obj/Debug/net8.0/refint/cursoGitTemp.dll
+/workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.pdb
+/workspaces/cursoGitTemp/obj/Debug/net8.0/cursoGitTemp.genruntimeconfig.cache
+/workspaces/cursoGitTemp/obj/Debug/net8.0/ref/cursoGitTemp.dll
